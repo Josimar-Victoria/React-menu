@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 <img src='https://github.com/Josimar-Victoria/React-menu/blob/main/Captura%20de%20pantalla%20de%202021-08-07%2012-51-34.png?raw=true' alt='log'/>
+<img src='https://github.com/Josimar-Victoria/React-menu/blob/main/Captura%20de%20pantalla%20de%202021-08-07%2012-51-48.png?raw=true' alt='log'/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
